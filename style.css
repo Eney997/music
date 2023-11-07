@@ -102,6 +102,9 @@ h3 {
     border: none;
     cursor: pointer;
 }
+.dots {
+    display: none;
+}
 
 
 

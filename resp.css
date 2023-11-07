@@ -1,3 +1,56 @@
 @media (width>768px){
+    #letbox {
+        margin-top: 117px;
+        margin-left: 90px;
+        width: 635px;
+        height: 509px;
+        background: #121725;
+    }
+    .bgim {
+        margin-left: -70px;
+    }
+    .head {
+        margin-top: 320px;
+        width: 635px;
+    }
+    #h1id {
+        font-size: 48px;
+        margin-left: -100px;
+    }
+    #h2id {
+        font-size: 48px;
+        margin-left: -34px;
+        margin-top: 15px;
+    }
+    #photos {
+        margin-left: -40px;
+        margin-top: 420px;
+        column-gap: 40px;
+    }
+    #dliniid {
+        width: 445px;
+        margin-top: 100px;
+        margin-left: -20px;
+    }
+    #h3id {
+        font-size: 18px;
+        margin-left: -13px;
+    }
+    #but {
+        margin-left: -65px;
+        margin-top: -150px;
+        display: grid;
+        grid-template-areas:'first second';
+        column-gap: 10px;
+    }
+    .thirdp {
+        margin-top: 2px;
+    }
+    #dots1 {
+        display: block;
+        margin-top: 0px;
+    }
+}
+@media (width>1440px){
     
 }
